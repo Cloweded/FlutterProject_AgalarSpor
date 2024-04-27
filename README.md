@@ -10,4 +10,4 @@ geldiğince yapmaya çalıştık .</h2>
 <br>
 <h1>No: 211216096</h1>
 <h1>Ders: Mobil Programlama</h1>
-<h1>Takim Uyeleri : Ömer Yiğit Kasap, Bahrican Arayıcı, Orçun Demircan</h1>
+<h1>Takim Uyeleri : Ömer Yiğit Kasap, Bahrican Arayıcı</h1>
